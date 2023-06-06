@@ -1,6 +1,6 @@
 # Light/Dark landing page
 
-A landing page that toggles between light and dark modes. Settings are saved using local storage. 
+A landing page that toggles between Light and Dark modes. Settings are saved using local storage. 
 
 
 ## Tech Stack
